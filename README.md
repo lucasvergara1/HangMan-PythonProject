@@ -1,2 +1,2 @@
 # HangMan-PythonProject
- I create a game using Python, HanMan Game
+ I create a game using Python, HangMan Game
